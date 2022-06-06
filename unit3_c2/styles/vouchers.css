@@ -1,0 +1,25 @@
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: pink;
+    padding: 10px;
+}
+
+
+#voucher_list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.voucher {
+    border: 1px solid blue;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 5px;
+}
+
+.voucher img {
+    height: 350px;
+    width: 90%;
+}

@@ -1,0 +1,22 @@
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: pink;
+    padding: 10px;
+}
+
+#form_div {
+    text-align: center;
+    border: 1px solid black;
+    height: 220px;
+    width: 30%;
+    margin-left: 35%;
+    background-color: aqua;
+}
+
+
+#form_div input {
+    width: 75%;
+    margin-bottom:8px ;
+}
+
